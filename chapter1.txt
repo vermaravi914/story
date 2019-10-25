@@ -1,0 +1,3 @@
+Hi my name is ravi  and this is chapter 1 for git hub i am using vim to write this inside a notepad 
+using a terminal enviroment thanks for having me.
+
